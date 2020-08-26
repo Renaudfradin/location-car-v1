@@ -1,0 +1,381 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.formcon{
+    background-color: rgb(247, 242, 238);
+    width: 60%;
+    margin-left: 10%;
+    margin-top: -1%;
+    padding: 3%;
+}
+#pseudoconnect,
+#mdpconnect,
+#pseudo,
+#age,
+#passwords,
+#password2,
+#email,
+#mail2{
+    width: 200px;
+    height: 30px;
+    border: 1px solid rgb(214, 218, 218);
+    border-radius: 5%;
+}
+.btn-connec{
+    border: 0px;
+    height: 37px;
+    width: 19%;
+    background-color: rgb(255, 106, 0);
+    color: rgb(29, 43, 43);
+    margin: 0%;
+    padding: 0%;
+    font-size: 19px; 
+    text-align: center;
+}
+.h1co{
+    margin-left: 10%;
+}
+.img_home{
+    width: 100%;
+    height: 650px;
+    background-color: rgba(0, 0, 0, 0.048);
+}
+.T1{
+    position: absolute;
+    display: flex;
+    margin-left: 17%;
+    margin-top: -40%;
+    font-size: 45px;
+    color: rgb(78, 78, 65);
+
+}
+.P1{
+    position: absolute;
+    display: flex;
+    margin-left: 22%;
+    margin-top: -33%;
+    font-size: 20px;
+    color: rgb(78, 78, 65);
+}
+.form1{
+    position: absolute;
+    display: flex;
+    float: left;
+    width: 70%;
+    height: 50%;
+    margin-top: -20%;
+    margin-left: 16%;
+    justify-content: center;
+}
+.depart,
+.arriver,
+.date{
+    width: 200px;
+    height: 30px;
+    margin: 0%;
+    padding: 0%;
+}
+.bag{
+    width: 50px;
+    height: 30px;
+    margin: 0%;
+    padding: 0%;
+}
+.btnform1{
+    border: 0px;
+    height: 30px;
+    width: 200px;
+    background-color: rgb(255, 100, 23);
+    color: rgb(29, 43, 43);
+    font-size: 19px; 
+    text-align: center;
+}
+.formins{
+    background-color: rgb(247, 242, 238);
+    width: 80%;
+    margin-left: 10%;
+    margin-top: -3%;
+    padding: 2%;
+}
+.inscription{
+    margin-left: 10%;
+}
+.btn-envoyer{
+    border: 0px;
+    height: 37px;
+    width: 39%;
+    background-color: rgb(255, 106, 0);
+    color: rgb(29, 43, 43);
+    margin: 0%;
+    padding: 0%;
+    font-size: 19px; 
+    text-align: center;
+}
+.btn-deja{
+    border: 0px;
+    height: 37px;
+    width: 19%;
+    background-color: rgb(255, 106, 0);
+    color: rgb(29, 43, 43);
+    margin: 0%;
+    padding: 0%;
+    font-size: 19px; 
+    text-align: center;
+}
+.IDENTIFIANTS{
+font-size: 25px;
+}
+.Bonjour{
+    margin-left: 10%;
+}
+.info{
+    font-size: 25px;
+}
+.profil{
+    margin-left: 10%;
+    background-color: rgb(247, 242, 238);
+    padding: 2%;
+    width: 70%;
+}
+.bouton1{
+    border: 0px;
+    height: 45px;
+    width: 29%;
+    background-color: rgb(255, 106, 0);
+    color: rgb(29, 43, 43);
+    margin: 0%;
+    padding: 0%;
+    font-size: 19px; 
+    text-align: center;
+}
+.tmodif{
+    margin-left: 10%;
+}
+.texmodif{
+    margin-left: 10%;
+}
+.formmodif{
+    background-color: rgb(247, 242, 238  );
+    margin-left: 10%;
+    padding: 2%;
+    width: 70%;
+}
+.age{
+    width: 50px;
+}
+.btnupdate{
+    border: 0px;
+    height: 37px;
+    width: 29%;
+    background-color: rgb(255, 106, 0);
+    color: rgb(29, 43, 43);
+    margin: 0%;
+    padding: 0%;
+    font-size: 19px; 
+    text-align: center;
+}
+.btnprofil{
+    border: 0px;
+    height: 37px;
+    width: 30%;
+    background-color: rgb(255, 106, 0);
+    color: rgb(29, 43, 43);
+    margin: 0%;
+    padding: 0%;
+    font-size: 19px; 
+    text-align: center;
+}
+.btnutil,
+.btn2{
+    border: 0px;
+    height: 37px;
+    width: 19%;
+    background-color: rgb(255, 106, 0);
+    color: rgb(29, 43, 43);
+    margin: 0%;
+    padding: 0%;
+    font-size: 19px; 
+    text-align: center;
+}
+.btnutil1{
+    border: 0px;
+    height: 50px;
+    width: 19%;
+    background-color: rgb(255, 106, 0);
+    color: rgb(29, 43, 43);
+    margin: 0%;
+    padding: 0%;
+    font-size: 19px; 
+    text-align: center;
+}
+.AD{
+    margin-left: 10%;
+}
+.btns{
+    margin-left: 10%;
+}
+.descripadm{
+    margin-left: 10%;
+}
+.Voicie{
+    margin-left: 10%;
+    font-size: 30px;
+}
+.util{
+    margin-left: 10%;
+    font-size: 20px;
+}
+.btnsup{
+    border: 0px;
+    height: 30px;
+    width: 40%;
+    background-color: rgb(255, 106, 0);
+    color: rgb(29, 43, 43);
+    margin: 0%;
+    padding: 0%;
+    font-size: 19px; 
+    text-align: center;
+}
+
+#tableauutil {
+    border-collapse: collapse;
+    width: 90%;
+}
+#tableauutil td, #tableauutil th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+#tableauutil tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+#tableauutil tr:hover {
+    background-color: #ddd;
+}
+#tableauutil th {
+padding-top: 12px;
+padding-bottom: 12px;
+text-align: left;
+background-color: #273747;
+color: white;
+}
+
+
+.imglocation1{
+    width: 550px;
+    height: 350px;
+    margin-left: 50%;
+    margin-top: -20%;
+}
+
+.locationliste{
+    margin-left: 15%;
+    width: 80%;
+}
+.locationinfo{
+    margin-left: 10%;
+    padding: 3%;
+    width: 86%;
+    height: 80%;
+    background-color: rgb(247, 242, 238);
+}
+
+.div1et2{
+    float: left;
+    width: 50%;
+}
+.div2{
+    margin-left: 18%;
+    margin-top: -10%;
+}
+.btnlouer{
+    border: 0px;
+    height: 37px;
+    width: 19%;
+    background-color: rgb(255, 106, 0);
+    color: rgb(29, 43, 43);
+    margin: 0%;
+    padding: 0%;
+    font-size: 19px; 
+    text-align: center;
+}
+.formajout{
+    margin-left: 10%;
+    padding: 3%;
+    width: 80%;
+    height: 90%;
+    background-color: rgb(247, 242, 238);
+}
+.div3{
+    margin-left: 30%;
+}
+.table1{
+    width: 80%;
+    margin-left: 15%;
+
+}
+.th{
+    padding: 30px;
+    float: left;
+}
+.btnsuploc{
+    border: 0px;
+    height: 37px;
+    width: 122%;
+    background-color: rgb(255, 106, 0);
+    color: rgb(29, 43, 43);
+    margin: 0%;
+    padding: 0%;
+    font-size: 19px; 
+    text-align: center;
+}
+.btntotal{
+    margin-top: 60%;
+}
+
+
+.locattion{
+    float: left;
+    width: 30%;
+    height: 20%;
+}
+.btnlouer1{
+    border: 0px;
+    height: 37px;
+    width: 50%;
+    background-color: rgb(255, 106, 0);
+    color: rgb(29, 43, 43);
+    margin: 0%;
+    padding: 0%;
+    margin-left: 5%;
+    font-size: 19px; 
+    text-align: center;
+}
+.price{
+    margin-left: 20%;
+}
+
+
+
+
+
+.formmoifcarss{
+    background-color: rgb(247, 242, 238);
+    width: 60%;
+    margin-left: 10%;
+    padding: 3%;
+}
+.commentsamarche{
+    display: block;
+    float: left;
+    text-align: center;
+    margin-left: 10%;
+}
+.commentsamarcheT{
+    text-align: center;
+    font-size: 30px;
+}
+.imgcomment{
+    width: 200px;
+    height: 170px;
+}

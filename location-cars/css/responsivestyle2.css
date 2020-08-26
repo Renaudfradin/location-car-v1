@@ -1,0 +1,843 @@
+@media screen and (max-width: 767px) {
+    
+    /* debut page profil */
+    .bouton1{
+        border: 0px;
+        height: 50px;
+        width: 95%;
+        background-color: rgb(255, 106, 0);
+        color: rgb(29, 43, 43);
+        margin: 0%;
+        padding: 0%;
+        font-size: 19px; 
+        text-align: center;
+
+    }
+    .Bonjour{
+        margin-left: 10%;
+        margin-right: 10%
+    }
+    .profil{
+        margin-left: 10%;
+        margin-right: 10%;
+        background-color: rgb(247, 242, 238);
+        padding: 3%;
+        width: 80%;
+    }
+    .info {
+        font-size: 25px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    /* fin page profil */
+    /* debut page connexion */
+    .formcon{
+        background-color: rgb(247, 242, 238);
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-top: -1%;
+        padding: 3%;
+    }
+    .btn-connec{
+        border: 0px;
+        height: 50px;
+        width: 49%;
+        background-color: rgb(255, 106, 0);
+        color: rgb(29, 43, 43);
+        margin: 0%;
+        padding: 0%;
+        font-size: 19px; 
+        text-align: center;
+    }
+    /* fin page connexion */
+    /* debut page admin */
+    .btnutil{
+        border: 0px;
+        height: 50px;
+        width: 69%;
+        background-color: rgb(255, 106, 0);
+        color: rgb(29, 43, 43);
+        margin: 0%;
+        padding: 0%;
+        font-size: 19px; 
+        text-align: center;
+    }
+    .btnutil1{
+        border: 0px;
+        height: 50px;
+        width: 69%;
+        background-color: rgb(255, 106, 0);
+        color: rgb(29, 43, 43);
+        margin: 0%;
+        padding: 0%;
+        font-size: 19px;
+        text-align: center;
+    }
+    .descripadm {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    /* fin page admin */
+    /* debut page adminutilisateurs */
+    .btnsup {
+        border: 0px;
+        height: 40px;
+        width: 100%;
+        background-color: rgb(255, 106, 0);
+        color: rgb(29, 43, 43);
+        margin: 1%;
+        margin-top: 10px;
+        padding: 0%;
+        font-size: 19px;
+        text-align: center;
+    }
+    .Voicie {
+        margin-left: 10%;
+        margin-right: 10%;
+        font-size: 30px;
+    }
+    .btn2 {
+        border: 0px;
+        height: 37px;
+        width: 60%;
+        background-color: rgb(255, 106, 0);
+        color: rgb(29, 43, 43);
+        margin: 0%;
+        padding: 0%;
+        font-size: 19px;
+        text-align: center;
+        margin-left: 16%;
+        margin-right: 25%;
+    }
+    /* fin page adminutilisateurs */
+    /* debut page ajoutlocation */
+    #marque,
+    #model,
+    #nb_seat,
+    #nb_door,
+    #price{
+        width: 95%;
+    }
+    .btnprofil {
+        border: 0px;
+        height: 40px;
+        width: 95%;
+        background-color: rgb(255, 106, 0);
+        color: rgb(29, 43, 43);
+        margin: 0%;
+        padding: 0%;
+        font-size: 19px;
+        text-align: center;
+    }
+    /* fin page ajoutlocation */
+    /* debut page editionprofil */
+        .formmodif {
+        background-color: rgb(247, 242, 238 );
+        margin-left: 10%;
+        margin-right: 10%;
+        padding: 2%;
+        width: 80%;
+    }
+    .btnupdate {
+        border: 0px;
+        height: 40px;
+        width: 95%;
+        background-color: rgb(255, 106, 0);
+        color: rgb(29, 43, 43);
+        margin: 0%;
+        padding: 0%;
+        font-size: 19px;
+        text-align: center;
+    }
+    .tmodif {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    .texmodif {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    /* fin page editionprofil */
+    /* debut page modifcar */
+    .formmoifcarss {
+        background-color: rgb(247, 242, 238);
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+        padding: 3%;
+    }
+    .Tiformmoifcarss{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    #newmarque,
+    #newmodel,
+    #newnb_seat,
+    #newnb_door,
+    #newprice{
+        width: 65%;
+    }
+    #newpicture{
+        width: 65%;
+    }
+    /* fin page modifcar */
+    /* debut page home */
+    .img_home{
+        width: 100%;
+        height: 500px;
+    }
+    .T1 {
+        position: absolute;
+        display: flex;
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-top: -480px;
+        font-size: 25px;
+        color: rgb(78, 78, 65);
+    }
+    .P1 {
+        position: absolute;
+        display: flex;
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-top: -400px;
+        font-size: 20px;
+        color: rgb(78, 78, 65);
+    }
+    .form1in{
+        position: absolute;
+        width: 80%;
+        margin-left: 0%;
+        margin-right: 0%;
+        margin-top: -210px;
+    }
+    .bag{
+        width: 98px;
+    }
+
+    /* fin page home */
+    .btn-envoyer {
+        border: 0px;
+        height: 37px;
+        width: 100%;
+        background-color: rgb(255, 106, 0);
+        color: rgb(29, 43, 43);
+        margin: 0%;
+        padding: 0%;
+        font-size: 19px;
+        text-align: center;
+    }
+    .btn-deja {
+        border: 0px;
+        height: 37px;
+        width: 100%;
+        background-color: rgb(255, 106, 0);
+        color: rgb(29, 43, 43);
+        margin: 0%;
+        padding: 0%;
+        font-size: 19px;
+        text-align: center;
+    }
+    #pseudo,
+    #age,
+    #passwords,
+    #password2,
+    #email,
+    #mail2{
+        width: 170px;
+    }
+
+    .locattion{
+        float: left;
+        width: 50%;
+        margin-left: 0%;
+        margin-right: 0%;
+        height: 20%;
+    }
+    .btnlouer1 {
+        border: 0px;
+        height: 40px;
+        width: 85%;
+        background-color: rgb(255, 106, 0);
+        color: rgb(29, 43, 43);
+        margin: 0%;
+        padding: 0%;
+        font-size: 19px;
+        text-align: center;
+    }
+    .imglocation{
+        width: 85%;
+    }
+    .price,.marqueloc {
+        margin-left: 0%;
+        width: 85%;
+        text-align: center;
+    }
+
+    .imglocation1 {
+        width: 100%;
+        height: 30%;
+        margin-left: 0%;
+        margin-top: 0%;
+    }
+    .div1et2{
+        float: left;
+        display: flex;
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    .div2{
+        margin-left: 10%;
+        margin-top: 0%;
+    }
+    .titleinfo{
+        text-align: center;
+    }
+    .btnlouer {
+        border: 0px;
+        height: 40px;
+        width: 100%;
+        background-color: rgb(255, 106, 0);
+        color: rgb(29, 43, 43);
+        margin: 0%;
+        padding: 0%;
+        font-size: 19px;
+        text-align: center;
+    }
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  @media screen and (max-width: 320px) {
+       /* debut page home */
+    .P1 {
+        position: absolute;
+        display: flex;
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-top: -380px;
+        font-size: 20px;
+        color: rgb(78, 78, 65);
+    }  
+    .form1in{
+        position: absolute;
+        width: 100%;
+        margin-left: 0%;
+        margin-right: 0%;
+        margin-top: -210px;
+    }
+    .bag{
+        width: 98px;
+    }
+    .commentsamarche{
+        display: block;
+        float: left;
+        text-align: center;
+        margin-left: 0%;
+    }
+    .commentsamarcheT{
+        text-align: center;
+        font-size: 30px;
+    }
+     /* fin page home */
+
+     /* debut  page inscripion */
+    .btn-envoyer {
+        border: 0px;
+        height: 37px;
+        width: 100%;
+        background-color: rgb(255, 106, 0);
+        color: rgb(29, 43, 43);
+        margin: 0%;
+        padding: 0%;
+        font-size: 19px;
+        text-align: center;
+    }
+    .btn-deja {
+        border: 0px;
+        height: 37px;
+        width: 100%;
+        background-color: rgb(255, 106, 0);
+        color: rgb(29, 43, 43);
+        margin: 0%;
+        padding: 0%;
+        font-size: 19px;
+        text-align: center;
+    }
+    #pseudo,
+    #age,
+    #passwords,
+    #password2,
+    #email,
+    #mail2{
+        width: 162px;
+    }
+     /* fin page inscripion */
+    .btn-connec {
+        border: 0px;
+        height: 50px;
+        width: 100%;
+        background-color: rgb(255, 106, 0);
+        color: rgb(29, 43, 43);
+        margin: 0%;
+        padding: 0%;
+        font-size: 19px;
+        text-align: center;
+    }
+    #pseudoconnect, 
+    #mdpconnect{
+        width: 145px;
+    }
+    .locattion{
+        float: none;
+        width: 30%;
+        height: 20%;
+    }
+    .btnlouer1 {
+        border: 0px;
+        height: 40px;
+        width: 250%;
+        background-color: rgb(255, 106, 0);
+        color: rgb(29, 43, 43);
+        margin: 0%;
+        padding: 0%;
+        margin-left: 5%;
+        font-size: 19px;
+        text-align: center;
+    }
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  @media screen and (min-width: 768px) AND (max-width: 1023px) {
+    /* debut page home */
+    .T1 {
+        position: absolute;
+        display: flex;
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-top: -600px;
+        font-size: 30px;
+        color: rgb(78, 78, 65);
+    }
+    .P1 {
+        position: absolute;
+        display: flex;
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-top: -510px;
+        font-size: 20px;
+        color: rgb(78, 78, 65);
+    }  
+    .form1in{
+        position: absolute;
+        width: 70%;
+        margin-left: 0%;
+        margin-right: 0%;
+        margin-top: -210px;
+    }
+    .bag{
+        width: 173px;
+        height: 35px;
+    }
+    .depart,
+    .arriver,
+    .date{
+        width: 350px;
+        height: 35px;
+    }
+    .commentsamarche{
+        display: block;
+        float: left;
+        text-align: center;
+        margin-left: 0%;
+    }
+    .commentsamarcheT{
+        text-align: center;
+        font-size: 30px;
+    }
+    .btnform1 {
+        border: 0px;
+        height: 30px;
+        width: 350px;
+        background-color: rgb(255, 100, 23);
+        color: rgb(29, 43, 43);
+        font-size: 19px;
+        text-align: center;
+    }
+    .commentsamarche{
+        display: block;
+        float: left;
+        text-align: center;
+        margin-left: 10%;
+    }
+    .commentsamarcheT{
+        text-align: center;
+        font-size: 30px;
+    }
+    .imgcomment{
+        width: 200px;
+        height: 170px;
+    }
+    .btn-connec{
+        border: 0px;
+        height: 50px;
+        width: 49%;
+        background-color: rgb(255, 100, 23);
+        color: rgb(29, 43, 43);
+        margin: 0%;
+        padding: 0%;
+        font-size: 19px; 
+        text-align: center;
+    }
+     /* fin page home */.btn-envoyer {
+        border: 0px;
+        height: 37px;
+        width: 50%;
+        background-color: rgb(255, 106, 0);
+        color: rgb(29, 43, 43);
+        margin: 0%;
+        padding: 0%;
+        font-size: 19px;
+        text-align: center;
+    }
+    .btn-deja {
+        border: 0px;
+        height: 37px;
+        width: 25%;
+        background-color: rgb(255, 106, 0);
+        color: rgb(29, 43, 43);
+        margin: 0%;
+        padding: 0%;
+        font-size: 19px;
+        text-align: center;
+    }
+    #pseudo,
+    #age,
+    #passwords,
+    #password2,
+    #email,
+    #mail2{
+        width: 170px;
+    }
+
+
+    .locattion{
+        float: left;
+        width: 30%;
+        margin-left: 0%;
+        margin-right: 0%;
+        height: 20%;
+    }
+    .btnlouer1 {
+        border: 0px;
+        height: 40px;
+        width: 85%;
+        background-color: rgb(255, 106, 0);
+        color: rgb(29, 43, 43);
+        margin: 0%;
+        padding: 0%;
+        font-size: 19px;
+        text-align: center;
+    }
+    .imglocation{
+        width: 85%;
+    }
+    .price,.marqueloc {
+        margin-left: 0%;
+        width: 85%;
+        text-align: center;
+    }
+
+
+    .imglocation1 {
+        width: 100%;
+        height: 25%;
+        margin-left: 5%;
+        margin-top: 0%;
+    }
+    .div1et2et3{
+        float: left;
+        display: flex;
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    .div1et2{
+        margin-left: -12%;
+    }
+    .div2{
+        margin-left: 0%;
+        margin-top: 0%;
+    }
+    .titleinfo{
+        text-align: center;
+    }
+    .btnlouer {
+        border: 0px;
+        height: 40px;
+        width: 50%;
+        background-color: rgb(255, 106, 0);
+        color: rgb(29, 43, 43);
+        margin: 0%;
+        margin-top: 1%;
+        padding: 0%;
+        font-size: 19px;
+        text-align: center;
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  @media screen and (min-width: 1024px) {
+    .btn-connec{
+        border: 0px;
+        height: 50px;
+        width: 49%;
+        background-color: rgb(255, 100, 23);
+        color: rgb(29, 43, 43);
+        margin: 0%;
+        padding: 0%;
+        font-size: 19px; 
+        text-align: center;
+    }
+    .locattion{
+        float: left;
+        width: 30%;
+        margin-left: 0%;
+        margin-right: 0%;
+        height: 20%;
+    }
+    .btnlouer1 {
+        border: 0px;
+        height: 40px;
+        width: 85%;
+        background-color: rgb(255, 106, 0);
+        color: rgb(29, 43, 43);
+        margin: 0%;
+        padding: 0%;
+        font-size: 19px;
+        text-align: center;
+    }
+    .imglocation{
+        width: 85%;
+    }
+    .price,.marqueloc {
+        margin-left: 0%;
+        width: 85%;
+        text-align: center;
+    }
+
+    .imglocation1 {
+        width: 100%;
+        height: 25%;
+        margin-left: 10%;
+        margin-top: 0%;
+    }
+    .div1et2et3{
+        float: left;
+        display: flex;
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    .div1et2{
+        margin-left: -12%;
+        float: left;
+    }
+    .div2{
+        margin-left: 0%;
+        margin-top: 0%;
+    }
+    .titleinfo{
+        text-align: center;
+    }
+    .btnlouer {
+        border: 0px;
+        height: 40px;
+        width: 50%;
+        background-color: rgb(255, 106, 0);
+        color: rgb(29, 43, 43);
+        margin: 0%;
+        margin-top: 1%;
+        padding: 0%;
+        font-size: 19px;
+        text-align: center;
+    }
+
+    .articlepanier{
+         width: 10%;
+    }
+
+
+    .rechercheutill{
+        width: 333px;
+        margin-left: 10%;
+        height: 40px;
+    }
+    .btnrechercheutill{
+        border: 0px;
+        height: 40px;
+        width: 20%;
+        background-color: rgb(255, 106, 0);
+        color: rgb(29, 43, 43);
+        margin: 0%;
+        padding: 0%;
+        font-size: 19px;
+        text-align: center;
+    }
+
+
+
+    
+    
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  @media screen and (max-width: 425px) {
+    .locattion{
+        float: none;
+        justify-items: center;
+        width: 30%;
+        height: 20%;
+    }
+    .locationliste {
+        margin-left: 20%;
+        margin-right: 20%;
+        width: 80%;
+    }
+    .price,.marqueloc {
+        margin-left: 0%;
+        width: 258%;
+        text-align: center;
+    }
+    .imglocation{
+        width: 250%;
+    }
+    .btnlouer1 {
+        border: 0px;
+        height: 40px;
+        width: 250%;
+        background-color: rgb(255, 106, 0);
+        color: rgb(29, 43, 43);
+        margin: 0%;
+        padding: 0%;
+        font-size: 19px;
+        text-align: center;
+    }
+
+
+    .imglocation1 {
+        width: 100%;
+        height: 30%;
+        margin-left: 0%;
+        margin-top: 0%;
+    }
+    .div1et2{
+        float: none;
+        display: block;
+        width: 50%;
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+    .div2{
+        margin-left: 0%;
+        margin-top: 0%;
+    }
+    .titleinfo{
+        text-align: center;
+    }
+    .btnlouer {
+        border: 0px;
+        height: 40px;
+        width: 100%;
+        background-color: rgb(255, 106, 0);
+        color: rgb(29, 43, 43);
+        margin: 0%;
+        padding: 0%;
+        font-size: 19px;
+        text-align: center;
+    }
+
+
+  }
+
+
+
+
+
